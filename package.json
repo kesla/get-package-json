@@ -1,5 +1,5 @@
 {
-  "name": "get-package-json",
+  "name": "get-pkg-json",
   "version": "0.0.0",
   "description": "Get a package.json, from either a npm registry or github",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kesla/get-package-json.git"
+    "url": "git+https://github.com/kesla/get-pkg-json.git"
   },
   "author": "David Björklund <david.bjorklund@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kesla/get-package-json/issues"
+    "url": "https://github.com/kesla/get-pkg-json/issues"
   },
-  "homepage": "https://github.com/kesla/get-package-json#readme",
+  "homepage": "https://github.com/kesla/get-pkg-json#readme",
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-core": "^6.10.4",
