@@ -1,6 +1,6 @@
 {
   "name": "get-pkg-json",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a package.json, from either a npm registry or github",
   "main": "dist/index.js",
   "scripts": {
